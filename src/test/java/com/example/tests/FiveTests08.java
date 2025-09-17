@@ -14,7 +14,7 @@ public class FiveTests08 {
     @org.junit.jupiter.api.Test
     void test_03() throws InterruptedException {
         Thread.sleep(1000);
-        org.junit.jupiter.api.Assertions.assertTrue(true);
+        org.junit.jupiter.api.Assertions.assertTrue(false);
     }
     @org.junit.jupiter.api.Test
     void test_04() throws InterruptedException {
